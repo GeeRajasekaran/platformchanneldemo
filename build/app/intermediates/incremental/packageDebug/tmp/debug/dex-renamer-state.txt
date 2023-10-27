@@ -1,0 +1,4 @@
+#Fri Oct 27 12:18:39 IST 2023
+base.0=/Users/rajasekaran/Documents/Others/Ui Shorts Demo/FlutterPlatformintegration/platform_channel_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
